@@ -1,0 +1,20 @@
+com.example.whatsapp_order_generator.app-jetified-window-1.0.0-beta04-0 C:\Users\dhanarap\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.example.whatsapp_order_generator.app-jetified-annotation-experimental-1.1.0-1 C:\Users\dhanarap\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.whatsapp_order_generator.app-browser-1.4.0-2 C:\Users\dhanarap\.gradle\caches\transforms-3\6d3bbaf4594b8ed85e4722883be764b3\transformed\browser-1.4.0\res
+com.example.whatsapp_order_generator.app-jetified-firebase-common-20.3.3-3 C:\Users\dhanarap\.gradle\caches\transforms-3\6f9fa5902813f78de2aefcdfcdb180f7\transformed\jetified-firebase-common-20.3.3\res
+com.example.whatsapp_order_generator.app-core-1.6.0-4 C:\Users\dhanarap\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.example.whatsapp_order_generator.app-jetified-play-services-base-18.0.1-5 C:\Users\dhanarap\.gradle\caches\transforms-3\aba8f806953ea3dd8f794da3aeb78a12\transformed\jetified-play-services-base-18.0.1\res
+com.example.whatsapp_order_generator.app-jetified-window-java-1.0.0-beta04-6 C:\Users\dhanarap\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.whatsapp_order_generator.app-jetified-play-services-auth-20.6.0-7 C:\Users\dhanarap\.gradle\caches\transforms-3\dba365070cc7ac55f68f88576550c7a3\transformed\jetified-play-services-auth-20.6.0\res
+com.example.whatsapp_order_generator.app-jetified-play-services-basement-18.2.0-8 C:\Users\dhanarap\.gradle\caches\transforms-3\f5aeeb70e4aa208ac830e747eaf33ddc\transformed\jetified-play-services-basement-18.2.0\res
+com.example.whatsapp_order_generator.app-debug-9 C:\Users\dhanarap\OneDrive - Mitel Networks Corporation\Documents\GitHub\orderbot\android\app\src\debug\res
+com.example.whatsapp_order_generator.app-main-10 C:\Users\dhanarap\OneDrive - Mitel Networks Corporation\Documents\GitHub\orderbot\android\app\src\main\res
+com.example.whatsapp_order_generator.app-pngs-11 C:\Users\dhanarap\OneDrive - Mitel Networks Corporation\Documents\GitHub\orderbot\build\app\generated\res\pngs\debug
+com.example.whatsapp_order_generator.app-resValues-12 C:\Users\dhanarap\OneDrive - Mitel Networks Corporation\Documents\GitHub\orderbot\build\app\generated\res\resValues\debug
+com.example.whatsapp_order_generator.app-rs-13 C:\Users\dhanarap\OneDrive - Mitel Networks Corporation\Documents\GitHub\orderbot\build\app\generated\res\rs\debug
+com.example.whatsapp_order_generator.app-mergeDebugResources-14 C:\Users\dhanarap\OneDrive - Mitel Networks Corporation\Documents\GitHub\orderbot\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.whatsapp_order_generator.app-mergeDebugResources-15 C:\Users\dhanarap\OneDrive - Mitel Networks Corporation\Documents\GitHub\orderbot\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.whatsapp_order_generator.app-merged_res-16 C:\Users\dhanarap\OneDrive - Mitel Networks Corporation\Documents\GitHub\orderbot\build\app\intermediates\merged_res\debug
+com.example.whatsapp_order_generator.app-packaged_res-17 C:\Users\dhanarap\OneDrive - Mitel Networks Corporation\Documents\GitHub\orderbot\build\firebase_auth\intermediates\packaged_res\debug
+com.example.whatsapp_order_generator.app-packaged_res-18 C:\Users\dhanarap\OneDrive - Mitel Networks Corporation\Documents\GitHub\orderbot\build\firebase_core\intermediates\packaged_res\debug
+com.example.whatsapp_order_generator.app-packaged_res-19 C:\Users\dhanarap\OneDrive - Mitel Networks Corporation\Documents\GitHub\orderbot\build\google_sign_in_android\intermediates\packaged_res\debug
